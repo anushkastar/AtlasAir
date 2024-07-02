@@ -1,9 +1,6 @@
 {
-
-  
-    "engines":{
-      "node": "20.15.0"
-    
+  "engines": {
+    "node": "20.15.0"
   },
   "name": "air-bnb",
   "version": "1.0.0",
